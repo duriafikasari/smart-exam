@@ -7,4 +7,5 @@ MODE DI LUAR claude.ai (penyimpanan perangkat):
 - Paket soal dan nilai tersimpan di browser perangkat yang sama (localStorage), bukan di server. Guru dan murid harus memakai perangkat/browser yang sama agar nilai muncul di Rekap.
 - Soal ditulis manual oleh guru (pembuat soal AI tidak aktif).
 - Duel online tidak aktif. Mode Solo berjalan normal.
-- Untuk fitur lengkap (AI, duel, nilai tersimpan di server), gunakan tautan artifact claude.ai.
+- Untuk fitur lengkap (AI, duel, nilai tersimpan di server), gunakan tautan artifact claude.ai
+
